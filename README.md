@@ -24,7 +24,7 @@ Built with simplicity and accessibility in mind, this project aims to deliver me
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github/rahul-sahani04/mental-health-app.git
+   git clone https://github/Hemant-singh-02/mental-health-app.git
    cd Mental-Health-App
    ```
 
